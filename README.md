@@ -1,1 +1,1 @@
-# spring-data-jpa-infybuzz-completed
+# infybuzz-datajpa-version2
